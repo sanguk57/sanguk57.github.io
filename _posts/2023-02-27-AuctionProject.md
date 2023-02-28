@@ -27,15 +27,11 @@
   
   5. 경매 시작
 
-  ![ezgif com-video-to-gif (5)](https://user-images.githubusercontent.com/113499796/221571781-771ea6a5-6d1e-42d2-ae8b-8d123a43958b.gif)
-
   6. 경매현황
   
-  ![image](https://user-images.githubusercontent.com/113499796/221572582-1fd5b6fd-3245-41de-85dd-a44aead4dd78.png)
 
   7. 경매종료 
   
-  ![image](https://user-images.githubusercontent.com/113499796/221573074-f7f2ab09-6967-4989-85c5-8eff484dd2d9.png)
   
 
  ### 🔖주요데이터 흐름
