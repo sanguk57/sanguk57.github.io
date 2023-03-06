@@ -49,4 +49,4 @@
   
  ### 💾데이터베이스 구조
 
-![auct](https://user-images.githubusercontent.com/125232122/221733287-c0162ed2-9b95-4f64-bfd4-2f52459b51c8.svg)
+![auct](https://user-images.githubusercontent.com/125232122/223084956-cc3f5381-60a9-494a-b16e-794fdcd448dc.png)
